@@ -1,0 +1,11 @@
+Updating e34c8d2..8c677e2
+Fast-forward
+ 0x01-git/{js/index.js => alx} | 0
+ 0x01-git/bash/alx             | 4 ++++
+ 0x01-git/js/main.js           | 0
+ 0x01-git/up_to_date           | 1 +
+ README.md                     | 2 +-
+ 5 files changed, 6 insertions(+), 1 deletion(-)
+ rename 0x01-git/{js/index.js => alx} (100%)
+ delete mode 100644 0x01-git/js/main.js
+ create mode 100644 0x01-git/up_to_date
